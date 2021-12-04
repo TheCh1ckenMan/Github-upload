@@ -1,0 +1,99 @@
+html, body {
+
+}
+.container {
+
+}
+.row1-col1 {
+    text-align: center;
+    font-size: medium;
+}
+
+.row2-col1 {
+    text-align:center;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.row3 {
+    column-gap: 30px;
+}
+.row3-col1 {
+    background-color: red;
+    border: 2px black solid;
+    height: 60px;
+}
+
+.row3-col2 {
+    background-color: blue;
+    border: 2px yellow dotted;
+    height: 60px;
+}
+
+.row3-col3 {
+    background-color: rgb(0, 255, 0);
+    border: 2px purple solid;
+    height: 60px;
+}
+
+.row4-col1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 18px;
+    text-decoration-color: blue;
+    color: blue;
+}
+
+.change1 {
+  border-radius: 5px;
+  width: 115px;
+}
+
+.change2 {
+    border-radius: 5px;
+    width: 115px;
+}
+
+.change3 {
+    border-radius: 5px;
+    width: 115px;
+}
+
+.change4 {
+    border-radius: 5px;
+    width: 110px;
+    color: white;
+}
+
+
+.row6-col1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 15px;
+    text-decoration-color: blue;
+    color: blue;
+}
+
+.row8-col2 {
+    text-orientation: ;
+}
+
+.hide1, .hide2, .hide3, .hideall {
+    border-radius: 5px;
+}
+
+.resetcolor, .showall {
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.row8-col2 {
+    text-align: right;
+    margin-right: 75px;
+}
+
+.showall {
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+}
