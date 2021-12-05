@@ -2,7 +2,7 @@ html, body {
 
 }
 .container {
-
+    margin: auto;
 }
 .row1-col1 {
     text-align: center;
@@ -16,6 +16,7 @@ html, body {
 }
 
 .row3 {
+    column-width: auto;
     column-gap: 30px;
 }
 .row3-col1 {
@@ -88,8 +89,7 @@ html, body {
 }
 
 .row8-col2 {
-    text-align: right;
-    margin-right: 75px;
+    text-align: left;
 }
 
 .showall {
